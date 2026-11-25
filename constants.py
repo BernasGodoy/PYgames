@@ -1,1 +1,3 @@
-main.py
+width = 600
+height = 400
+fps = 120
